@@ -12,6 +12,9 @@ I'm currently working on MERN , App dev<br>I'm Interested to learn ML, Blockchai
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bharath-KumarReddy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-KumarReddy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+[![An image of @bharathkumarreddy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bharathkumarreddy)](https://holopin.io/@bharathkumarreddy)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
