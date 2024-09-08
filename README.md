@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on MERN , App dev<br>I'm Interested to learn ML, Blockchain
+I'm currently working on MERN , App dev<br>I'm Interested in learning ML, Blockchain
 
 
 ## 🌐 Socials:
